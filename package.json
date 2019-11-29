@@ -1,5 +1,5 @@
 {
-  "name": "@pivotal-tools/vscode-spring-cloud-dataflow-stream-webview",
+  "name": "@pivotal-tools/vscode-spring-cloud-dataflow-webview-flo",
   "version": "0.0.1",
   "files": [
     "dist"
